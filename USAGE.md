@@ -1,6 +1,6 @@
 # 📘 Usage Guide – Campus Course & Records Manager (CCRM)
-by NAMAN MEHTA
-24BAI10885
+by ayush pateriya
+24BAI10067
 
 This guide explains how to *set up, run, and use* the Campus Course & Records Manager (CCRM) application.
 
@@ -27,8 +27,7 @@ Optional: Eclipse IDE or VS Code for editing/debugging
 
 1. Clone the Repository
 
-git clone https://naman-mehta22.github.io/Java-project/
-cd CCRM-PROJECT----24BCE10542
+https://github.com/ayushpateriya37-code/java-project/tree/main
 
 2. Compile the Source Code
 

@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CLIApp",
+            "request": "launch",
+            "mainClass": "edu.ccrm.cli.CLIApp"
+        }
+    ]
+}
